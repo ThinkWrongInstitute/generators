@@ -1,6 +1,6 @@
 {
   "name": "nlg-web",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -14,5 +14,25 @@
     "morgan": "~1.8.1",
     "sentencer": "^0.1.5",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "description": "get clear - Exposing you to the depth of a definition.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkWrongInstitute/generators.git"
+  },
+  "keywords": [
+    "generator",
+    "Think",
+    "Wrong",
+    "Secret",
+    "Project"
+  ],
+  "author": "Weiwei Hsu , William Felker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkWrongInstitute/generators/issues"
+  },
+  "homepage": "https://github.com/ThinkWrongInstitute/generators#readme"
 }
