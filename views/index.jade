@@ -1,0 +1,8 @@
+extends layout
+
+block content
+    -var index = 0;
+
+    each prompt in prompts
+        p.prompt(data-id="#{index}") #{prompt}
+        button(onclick='getNewPrompt(#{index++})') Next
