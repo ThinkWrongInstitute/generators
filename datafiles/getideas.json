@@ -1,8 +1,8 @@
 [
 	{
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		title: "Hello",
+		description: "#time to say hello",
+        contributor: "nothing to say"
 	},
     {
 		title: "red",
