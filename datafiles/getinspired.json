@@ -1,32 +1,32 @@
 [
 	{
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "Kevin Kelly'S IDEA",
+		description: "KK's newest book is to advice the modern people to embarce the change of the world ",
+        link: "http://kk.org/",
+        contributor: "kaiwen"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "",
+		description: "",
+        link: "",
+        contributor: "kaiwen"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "",
+		description: "",
+        link: ",
+        contributor: "kaiwen"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "",
+		description: "",
+        link: "",
+        contributor: "kaiwen"
 	},
     {
-		title: "lalalalaland",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "",
+		description: "",
+        link: "",
+        contributor: "kaiwen"
 	}
 ]
