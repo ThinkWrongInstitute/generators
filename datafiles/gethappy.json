@@ -1,9 +1,16 @@
 [
 	{
+<<<<<<< HEAD
 		"title": "sss",
 		"description": "#f00",
         "link": "#f00",
         "contributor": "#f00"
+=======
+		title: "Do what you cant",
+		description: "A video about pushing beyound you personal expectations",
+        link: "www.klw;eklf.com",
+        contributor: "weiwei"
+>>>>>>> 97be3458030ef65102356a8f94e808dec5489a0d
 	},
     {
 		"title": "How to live a happy life",
