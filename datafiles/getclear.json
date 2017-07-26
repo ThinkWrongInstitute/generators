@@ -1,27 +1,27 @@
 [
 	{
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "Sketching",
+		"description": "Thinking of sketching as a level offidelity instead of just drawing, you can try sketching with code, sketching with electronics, sketching with volleyball, etc. ",
+        "contributor": "Weiwei"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	}
 ]
