@@ -17,4 +17,16 @@
         "link": "http://bloopdance.com/",
         "contributor": "Weiwei"
 	},
+    {
+		title: "we bare bears",
+		description: "they talk with family of Korean friends",
+        link: "https://www.youtube.com/watch?v=_8ibWpmclAE",
+        contributor: "MinYun"
+	},
+    {
+		title: "practice makes perfect",
+		description: "how fast a person eat a watermelon?",
+        link: "https://www.facebook.com/news.ebc/videos/1608104022558016/",
+        contributor: "MinYun"
+	}
 ]

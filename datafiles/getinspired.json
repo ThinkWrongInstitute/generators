@@ -1,29 +1,17 @@
 [
 	{
-		"title": "red",
-		"description": "#f00",
-        "link": "#f00",
-        "contributor": "#f00"
+		
+		title: "Jane's interview",
+		description: "Jane Goodall say something she like to share in 5 mins",
+        link: "https://www.youtube.com/watch?v=99gJKzINNow&t=209s",
+        contributor: "#f00"
 	},
     {
-		"title": "red",
-		"description": "#f00",
-        "link": "#f00",
-        "contributor": "#f00"
+		title: "do what you love, until death.",
+		description: "this man did it.",
+     link: "https://www.facebook.com/HistoricPhotographs/photos/a.220359594804465.1073741825.129233573917068/790189661154786/?type=3&theater",
 	},
-    {
-		"title": "red",
-		"description": "#f00",
-        "link": "#f00",
-        "contributor": "#f00"
-	},
-    {
-<<<<<<< HEAD
-		"title": "red",
-		"description": "#f00",
-        "link": "#f00",
-        "contributor": "#f00"
-	},
+
     {
 		"title": "Utopian hacks",
 		"description": "Read about how Bret Victor and his research group has been reimagining what computers can and should 'do'.",
@@ -41,17 +29,17 @@
 		"description": "The company demonstrated live projection mapping by showing the five principals of stage magic.",
         "link": "http://gmunk.com/BOX-DEMO",
         "contributor": "Weiwei"
-=======
-		title: "Minyun",
+    },
+    {	
+    title: "Minyun",
 		description: "a cute one",
         link: "#f00",
-        contributor: "#MinYun"
+
 	},
     {
 		title: "lalalalaland",
 		description: "#f00",
         link: "#f00",
         contributor: "#f00"
->>>>>>> 97be3458030ef65102356a8f94e808dec5489a0d
 	}
 ]
