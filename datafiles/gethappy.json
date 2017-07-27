@@ -1,32 +1,20 @@
 [
 	{
-		title: "77778",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		title: "Do what you cant",
+		description: "A video about pushing beyound you personal expectations",
+        link: "www.klw;eklf.com",
+        contributor: "weiwei"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		"title": "How to live a happy life",
+		"description": "A Harvard study that's almost 80 years old has proved that embracing community helps us live longer, and be happier.",
+        "link": "http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/",
+        "contributor": "Weiwei"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		"title": "Blood dance",
+		"description": "A little weird phone experiment.",
+        "link": "http://bloopdance.com/",
+        "contributor": "Weiwei"
 	},
-    {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
-	},
-    {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
-	}
 ]

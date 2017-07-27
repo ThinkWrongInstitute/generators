@@ -1,32 +1,57 @@
 [
 	{
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "link": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "link": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "link": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        link: "#f00",
-        contributor: "#f00"
+<<<<<<< HEAD
+		"title": "red",
+		"description": "#f00",
+        "link": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
+		"title": "Utopian hacks",
+		"description": "Read about how Bret Victor and his research group has been reimagining what computers can and should 'do'.",
+        "link": "https://limn.it/utopian-hacks/?doing_wp_cron=1498868053.3908839225769042968750",
+        "contributor": "Weiwei"
+	},
+	{
+		"title": "Nat and Friends",
+		"description": "This Youtube channel demistify the technology behind google products.",
+        "link": "https://www.youtube.com/NatAndFriends",
+        "contributor": "Weiwei"
+	},
+    {
+		"title": "Bot & Dolly",
+		"description": "The company demonstrated live projection mapping by showing the five principals of stage magic.",
+        "link": "http://gmunk.com/BOX-DEMO",
+        "contributor": "Weiwei"
+=======
+		title: "Minyun",
+		description: "a cute one",
+        link: "#f00",
+        contributor: "#MinYun"
+	},
+    {
+		title: "lalalalaland",
 		description: "#f00",
         link: "#f00",
         contributor: "#f00"
+>>>>>>> 97be3458030ef65102356a8f94e808dec5489a0d
 	}
 ]

@@ -3,6 +3,9 @@ extends layout
 block content
     -var index = 0;
 
+    #{promptData[0].jsonParsed[0]["title"]}
+    //google how to syntax this properly
+
     each prompt in prompts
         p.prompt(data-id="#{index}") #{prompt}
         button(onclick='getNewPrompt(#{index++})') Next

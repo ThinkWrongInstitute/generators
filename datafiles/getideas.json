@@ -1,27 +1,64 @@
 [
 	{
-		title: "red",
+<<<<<<< HEAD
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
+=======
+    MinYun
+		title: "min",
 		description: "#f00",
-        contributor: "#f00"
+        contributor: "Minyun"
+  },
+  {
+		title: "Hello",
+		description: "#time to say hello",
+        contributor: "nothing to say"
+>>>>>>> 97be3458030ef65102356a8f94e808dec5489a0d
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "red",
+		"description": "#f00",
+        "contributor": "#f00"
 	},
     {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
+		"title": "Stickers for smokers",
+		"description": "Create well designed stickers say 'I exhaust' and stick it on people who smoke.",
+        "contributor": "Weiwei"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
 	}
 ]
