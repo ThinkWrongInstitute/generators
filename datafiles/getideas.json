@@ -1,33 +1,18 @@
 [
-	{
-    MinYun
-		title: "min",
-		description: "#f00",
-        contributor: "Minyun"
-  },
-  {
-		title: "Hello",
-		description: "#time to say hello",
-        contributor: "nothing to say"
-	},
-    {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
-	},
-    {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
-	},
-    {
-		title: "red",
-		description: "#f00",
-        contributor: "#f00"
-	},
     {
 		title: "Go For It",
 		description: "don't worry too much",
         contributor: "MinYun"
+   },
+  {
+      "title": "Stickers for smokers",
+		"description": "Create well designed stickers say 'I exhaust' and stick it on people who smoke.",
+        "contributor": "Weiwei"
+	},
+	{
+		"title": "aaa",
+		"description": "aaa",
+		"contributor": "aaa"
+	
 	}
 ]
