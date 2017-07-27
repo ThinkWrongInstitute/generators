@@ -1,5 +1,11 @@
 [
 	{
+		title: "Kevin Kelly'S IDEA",
+		description: "KK's newest book is to advice the modern people to embarce the change of the world ",
+        link: "http://kk.org/",
+        contributor: "kaiwen"
+	},
+  {
 		
 		title: "Jane's interview",
 		description: "Jane Goodall say something she like to share in 5 mins",
@@ -12,7 +18,7 @@
      link: "https://www.facebook.com/HistoricPhotographs/photos/a.220359594804465.1073741825.129233573917068/790189661154786/?type=3&theater",
 	},
 
-    {
+  {
 		"title": "Utopian hacks",
 		"description": "Read about how Bret Victor and his research group has been reimagining what computers can and should 'do'.",
         "link": "https://limn.it/utopian-hacks/?doing_wp_cron=1498868053.3908839225769042968750",
